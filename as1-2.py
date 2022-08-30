@@ -1,0 +1,12 @@
+a=int(input(' enter your first number'))
+b=int(input(' enter your second number'))
+c=int(input(' enter your third number'))
+d=int(input(' enter your fourth number'))
+e=int(input(' enter your fifth number'))
+f=int(input(' enter your sixth number'))
+g=int(input(' enter your seventh number'))
+h=int(input(' enter your eighth number'))
+i=int(input(' enter your nineth number'))
+j=int(input(' enter your tenth number'))
+m=(a+b+c+d+e+f+g+h+i+j)/10
+print(m)
